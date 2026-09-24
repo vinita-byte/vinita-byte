@@ -1,3 +1,5 @@
+[![Vinita Mathreja](vinita-github-card.png)](https://github.com/vinita-byte)
+
 # 💫 About Me:
 🔭 I'm currently working on<br>Growing WhatTheWeb — an India-focused publication covering AI, crypto, and emerging tech — and shipping a daily practice of small web apps for designers and creators<br>🤝 I'm looking to collaborate on<br>GEO/AEO content systems, Claude Skills workflows, and crypto-native creative IP (animation + Web3 crossover projects)<br>🧰 I'm looking for help with<br>React/WebGL bundling into WordPress, and scaling automated content pipelines without losing quality<br>🌱 I'm currently learning<br>Building production-grade Claude Skills (from banner design to video reframing), and the mechanics of tokenized stocks and on-chain narratives<br>💬 Ask me about<br>Crypto marketing for Indian audiences, GEO-optimized content, or how to turn a character design bible into monetizable IP<br>⚡ Fun fact<br>I've got an animated mascot (Ganji Chudail) and a Claude Skills library doing more shipping than most dev teams I know 😄
 
